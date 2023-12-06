@@ -132,3 +132,6 @@ dmypy.json
 
 media/
 .media
+
+#REST Client requests
+requests.http
